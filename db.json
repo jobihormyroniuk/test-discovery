@@ -1,0 +1,971 @@
+{
+  "config": "android,1.6.0",
+  "supportedCountries": [
+    {
+      "US": {
+        "isoCode": "US",
+        "iso3Code": "USA",
+        "flag": "🇺🇸",
+        "region": "US"
+      }
+    },
+    {
+      "PR": {
+        "isoCode": "PR",
+        "iso3Code": "PRI",
+        "flag": "🇵🇷",
+        "region": "US"
+      }
+    },
+    {
+      "IT": {
+        "isoCode": "IT",
+        "iso3Code": "ITA",
+        "flag": "🇮🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "NL": {
+        "isoCode": "NL",
+        "iso3Code": "NLD",
+        "flag": "🇳🇱",
+        "region": "EU"
+      }
+    },
+    {
+      "SE": {
+        "isoCode": "SE",
+        "iso3Code": "SWE",
+        "flag": "🇸🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "BE": {
+        "isoCode": "BE",
+        "iso3Code": "BEL",
+        "flag": "🇧🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "ES": {
+        "isoCode": "ES",
+        "iso3Code": "ESP",
+        "flag": "🇪🇸",
+        "region": "EU"
+      }
+    },
+    {
+      "ZA": {
+        "isoCode": "ZA",
+        "iso3Code": "ZAF",
+        "flag": "🇿🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "DK": {
+        "isoCode": "DK",
+        "iso3Code": "DNK",
+        "flag": "🇩🇰",
+        "region": "EU"
+      }
+    },
+    {
+      "GB": {
+        "isoCode": "GB",
+        "iso3Code": "GBR",
+        "flag": "🇬🇧",
+        "region": "EU"
+      }
+    },
+    {
+      "AU": {
+        "isoCode": "AU",
+        "iso3Code": "AUS",
+        "flag": "🇦🇺",
+        "region": "EU"
+      }
+    },
+    {
+      "AT": {
+        "isoCode": "AT",
+        "iso3Code": "AUT",
+        "flag": "🇦🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "BH": {
+        "isoCode": "BH",
+        "iso3Code": "BHR",
+        "flag": "🇧🇭",
+        "region": "EU"
+      }
+    },
+    {
+      "CA": {
+        "isoCode": "CA",
+        "iso3Code": "CAN",
+        "flag": "🇨🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "CL": {
+        "isoCode": "CL",
+        "iso3Code": "CHL",
+        "flag": "🇨🇱",
+        "region": "EU"
+      }
+    },
+    {
+      "HR": {
+        "isoCode": "HR",
+        "iso3Code": "HRV",
+        "flag": "🇭🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "CY": {
+        "isoCode": "CY",
+        "iso3Code": "CYP",
+        "flag": "🇨🇾",
+        "region": "EU"
+      }
+    },
+    {
+      "CZ": {
+        "isoCode": "CZ",
+        "iso3Code": "CZE",
+        "flag": "🇨🇿",
+        "region": "EU"
+      }
+    },
+    {
+      "EG": {
+        "isoCode": "EG",
+        "iso3Code": "EGY",
+        "flag": "🇪🇬",
+        "region": "EU"
+      }
+    },
+    {
+      "EE": {
+        "isoCode": "EE",
+        "iso3Code": "EST",
+        "flag": "🇪🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "FI": {
+        "isoCode": "FI",
+        "iso3Code": "FIN",
+        "flag": "🇫🇮",
+        "region": "EU"
+      }
+    },
+    {
+      "FR": {
+        "isoCode": "FR",
+        "iso3Code": "FRA",
+        "flag": "🇫🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "DE": {
+        "isoCode": "DE",
+        "iso3Code": "DEU",
+        "flag": "🇩🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "GR": {
+        "isoCode": "GR",
+        "iso3Code": "GRC",
+        "flag": "🇬🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "HK": {
+        "isoCode": "HK",
+        "iso3Code": "HKG",
+        "flag": "🇭🇰",
+        "region": "EU"
+      }
+    },
+    {
+      "HU": {
+        "isoCode": "HU",
+        "iso3Code": "HUN",
+        "flag": "🇭🇺",
+        "region": "EU"
+      }
+    },
+    {
+      "IE": {
+        "isoCode": "IE",
+        "iso3Code": "IRL",
+        "flag": "🇮🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "IL": {
+        "isoCode": "IL",
+        "iso3Code": "ISR",
+        "flag": "🇮🇱",
+        "region": "EU"
+      }
+    },
+    {
+      "KW": {
+        "isoCode": "KW",
+        "iso3Code": "KWT",
+        "flag": "🇰🇼",
+        "region": "EU"
+      }
+    },
+    {
+      "LV": {
+        "isoCode": "LV",
+        "iso3Code": "LVA",
+        "flag": "🇱🇻",
+        "region": "EU"
+      }
+    },
+    {
+      "LB": {
+        "isoCode": "LB",
+        "iso3Code": "LBN",
+        "flag": "🇱🇧",
+        "region": "EU"
+      }
+    },
+    {
+      "LT": {
+        "isoCode": "LT",
+        "iso3Code": "LTU",
+        "flag": "🇱🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "LU": {
+        "isoCode": "LU",
+        "iso3Code": "LUX",
+        "flag": "🇱🇺",
+        "region": "EU"
+      }
+    },
+    {
+      "MT": {
+        "isoCode": "MT",
+        "iso3Code": "MLT",
+        "flag": "🇲🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "MU": {
+        "isoCode": "MU",
+        "iso3Code": "MUS",
+        "flag": "🇲🇺",
+        "region": "EU"
+      }
+    },
+    {
+      "MA": {
+        "isoCode": "MA",
+        "iso3Code": "MAR",
+        "flag": "🇲🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "NO": {
+        "isoCode": "NO",
+        "iso3Code": "NOR",
+        "flag": "🇳🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "OM": {
+        "isoCode": "OM",
+        "iso3Code": "OMN",
+        "flag": "🇴🇲",
+        "region": "EU"
+      }
+    },
+    {
+      "PL": {
+        "isoCode": "PL",
+        "iso3Code": "POL",
+        "flag": "🇵🇱",
+        "region": "EU"
+      }
+    },
+    {
+      "PT": {
+        "isoCode": "PT",
+        "iso3Code": "PRT",
+        "flag": "🇵🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "QA": {
+        "isoCode": "QA",
+        "iso3Code": "QAT",
+        "flag": "🇶🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "RO": {
+        "isoCode": "RO",
+        "iso3Code": "ROU",
+        "flag": "🇷🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "RU": {
+        "isoCode": "RU",
+        "iso3Code": "RUS",
+        "flag": "🇷🇺",
+        "region": "EU"
+      }
+    },
+    {
+      "SA": {
+        "isoCode": "SA",
+        "iso3Code": "SAU",
+        "flag": "🇸🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "SK": {
+        "isoCode": "SK",
+        "iso3Code": "SVK",
+        "flag": "🇸🇰",
+        "region": "EU"
+      }
+    },
+    {
+      "SI": {
+        "isoCode": "SI",
+        "iso3Code": "SVN",
+        "flag": "🇸🇮",
+        "region": "EU"
+      }
+    },
+    {
+      "CH": {
+        "isoCode": "CH",
+        "iso3Code": "CHE",
+        "flag": "🇨🇭",
+        "region": "EU"
+      }
+    },
+    {
+      "TR": {
+        "isoCode": "TR",
+        "iso3Code": "TUR",
+        "flag": "🇹🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "UA": {
+        "isoCode": "UA",
+        "iso3Code": "UKR",
+        "flag": "🇺🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "AE": {
+        "isoCode": "AE",
+        "iso3Code": "ARE",
+        "flag": "🇦🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "AM": {
+        "isoCode": "AM",
+        "iso3Code": "ARM",
+        "flag": "🇦🇲",
+        "region": "EU"
+      }
+    },
+    {
+      "CO": {
+        "isoCode": "CO",
+        "iso3Code": "COL",
+        "flag": "🇨🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "GE": {
+        "isoCode": "GE",
+        "iso3Code": "GEO",
+        "flag": "🇬🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "IS": {
+        "isoCode": "IS",
+        "iso3Code": "ISL",
+        "flag": "🇮🇸",
+        "region": "EU"
+      }
+    },
+    {
+      "JO": {
+        "isoCode": "JO",
+        "iso3Code": "JOR",
+        "flag": "🇯🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "MD": {
+        "isoCode": "MD",
+        "iso3Code": "MDA",
+        "flag": "🇲🇩",
+        "region": "EU"
+      }
+    },
+    {
+      "MK": {
+        "isoCode": "MK",
+        "iso3Code": "MKD",
+        "flag": "🇲🇰",
+        "region": "EU"
+      }
+    },
+    {
+      "PK": {
+        "isoCode": "PK",
+        "iso3Code": "PAK",
+        "flag": "🇵🇰",
+        "region": "EU"
+      }
+    },
+    {
+      "AL": {
+        "isoCode": "AL",
+        "iso3Code": "ALB",
+        "flag": "🇦🇱",
+        "region": "EU"
+      }
+    },
+    {
+      "AR": {
+        "isoCode": "AR",
+        "iso3Code": "ARG",
+        "flag": "🇦🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "AW": {
+        "isoCode": "AW",
+        "iso3Code": "ABW",
+        "flag": "🇦🇼",
+        "region": "EU"
+      }
+    },
+    {
+      "AZ": {
+        "isoCode": "AZ",
+        "iso3Code": "AZE",
+        "flag": "🇦🇿",
+        "region": "EU"
+      }
+    },
+    {
+      "BS": {
+        "isoCode": "BS",
+        "iso3Code": "BHS",
+        "flag": "🇧🇸",
+        "region": "EU"
+      }
+    },
+    {
+      "BD": {
+        "isoCode": "BD",
+        "iso3Code": "BGD",
+        "flag": "🇧🇩",
+        "region": "EU"
+      }
+    },
+    {
+      "BB": {
+        "isoCode": "BB",
+        "iso3Code": "BRB",
+        "flag": "🇧🇧",
+        "region": "EU"
+      }
+    },
+    {
+      "BY": {
+        "isoCode": "BY",
+        "iso3Code": "BLR",
+        "flag": "🇧🇾",
+        "region": "EU"
+      }
+    },
+    {
+      "BM": {
+        "isoCode": "BM",
+        "iso3Code": "BMU",
+        "flag": "🇧🇲",
+        "region": "EU"
+      }
+    },
+    {
+      "BO": {
+        "isoCode": "BO",
+        "iso3Code": "BOL",
+        "flag": "🇧🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "BA": {
+        "isoCode": "BA",
+        "iso3Code": "BIH",
+        "flag": "🇧🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "BW": {
+        "isoCode": "BW",
+        "iso3Code": "BWA",
+        "flag": "🇧🇼",
+        "region": "EU"
+      }
+    },
+    {
+      "BR": {
+        "isoCode": "BR",
+        "iso3Code": "BRA",
+        "flag": "🇧🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "BG": {
+        "isoCode": "BG",
+        "iso3Code": "BGR",
+        "flag": "🇧🇬",
+        "region": "EU"
+      }
+    },
+    {
+      "CR": {
+        "isoCode": "CR",
+        "iso3Code": "CRI",
+        "flag": "🇨🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "CW": {
+        "isoCode": "CW",
+        "iso3Code": "CUW",
+        "flag": "🇨🇼",
+        "region": "EU"
+      }
+    },
+    {
+      "DO": {
+        "isoCode": "DO",
+        "iso3Code": "DOM",
+        "flag": "🇩🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "EC": {
+        "isoCode": "EC",
+        "iso3Code": "ECU",
+        "flag": "🇪🇨",
+        "region": "EU"
+      }
+    },
+    {
+      "SV": {
+        "isoCode": "SV",
+        "iso3Code": "SLV",
+        "flag": "🇸🇻",
+        "region": "EU"
+      }
+    },
+    {
+      "GT": {
+        "isoCode": "GT",
+        "iso3Code": "GTM",
+        "flag": "🇬🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "HN": {
+        "isoCode": "HN",
+        "iso3Code": "HND",
+        "flag": "🇭🇳",
+        "region": "EU"
+      }
+    },
+    {
+      "IN": {
+        "isoCode": "IN",
+        "iso3Code": "IND",
+        "flag": "🇮🇳",
+        "region": "EU"
+      }
+    },
+    {
+      "IQ": {
+        "isoCode": "IQ",
+        "iso3Code": "IRQ",
+        "flag": "🇮🇶",
+        "region": "EU"
+      }
+    },
+    {
+      "JP": {
+        "isoCode": "JP",
+        "iso3Code": "JPN",
+        "flag": "🇯🇵",
+        "region": "EU"
+      }
+    },
+    {
+      "JM": {
+        "isoCode": "JM",
+        "iso3Code": "JAM",
+        "flag": "🇯🇲",
+        "region": "EU"
+      }
+    },
+    {
+      "KZ": {
+        "isoCode": "KZ",
+        "iso3Code": "KAZ",
+        "flag": "🇰🇿",
+        "region": "EU"
+      }
+    },
+    {
+      "KE": {
+        "isoCode": "KE",
+        "iso3Code": "KEN",
+        "flag": "🇰🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "XK": {
+        "isoCode": "XK",
+        "iso3Code": "XXK",
+        "flag": "🇽🇰",
+        "region": "EU"
+      }
+    },
+    {
+      "LY": {
+        "isoCode": "LY",
+        "iso3Code": "LBY",
+        "flag": "🇱🇾",
+        "region": "EU"
+      }
+    },
+    {
+      "MO": {
+        "isoCode": "MO",
+        "iso3Code": "MAC",
+        "flag": "🇲🇴",
+        "region": "EU"
+      }
+    },
+    {
+      "MY": {
+        "isoCode": "MY",
+        "iso3Code": "MYS",
+        "flag": "🇲🇾",
+        "region": "EU"
+      }
+    },
+    {
+      "MV": {
+        "isoCode": "MV",
+        "iso3Code": "MDV",
+        "flag": "🇲🇻",
+        "region": "EU"
+      }
+    },
+    {
+      "MX": {
+        "isoCode": "MX",
+        "iso3Code": "MEX",
+        "flag": "🇲🇽",
+        "region": "EU"
+      }
+    },
+    {
+      "ME": {
+        "isoCode": "ME",
+        "iso3Code": "MNE",
+        "flag": "🇲🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "NA": {
+        "isoCode": "NA",
+        "iso3Code": "NAM",
+        "flag": "🇳🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "NZ": {
+        "isoCode": "NZ",
+        "iso3Code": "NZL",
+        "flag": "🇳🇿",
+        "region": "EU"
+      }
+    },
+    {
+      "NI": {
+        "isoCode": "NI",
+        "iso3Code": "NIC",
+        "flag": "🇳🇮",
+        "region": "EU"
+      }
+    },
+    {
+      "PA": {
+        "isoCode": "PA",
+        "iso3Code": "PAN",
+        "flag": "🇵🇦",
+        "region": "EU"
+      }
+    },
+    {
+      "PY": {
+        "isoCode": "PY",
+        "iso3Code": "PRY",
+        "flag": "🇵🇾",
+        "region": "EU"
+      }
+    },
+    {
+      "PE": {
+        "isoCode": "PE",
+        "iso3Code": "PER",
+        "flag": "🇵🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "PH": {
+        "isoCode": "PH",
+        "iso3Code": "PHL",
+        "flag": "🇵🇭",
+        "region": "EU"
+      }
+    },
+    {
+      "SG": {
+        "isoCode": "SG",
+        "iso3Code": "SGP",
+        "flag": "🇸🇬",
+        "region": "EU"
+      }
+    },
+    {
+      "KR": {
+        "isoCode": "KR",
+        "iso3Code": "KOR",
+        "flag": "🇰🇷",
+        "region": "EU"
+      }
+    },
+    {
+      "SD": {
+        "isoCode": "SD",
+        "iso3Code": "SDN",
+        "flag": "🇸🇩",
+        "region": "EU"
+      }
+    },
+    {
+      "TW": {
+        "isoCode": "TW",
+        "iso3Code": "TWN",
+        "flag": "🇹🇼",
+        "region": "EU"
+      }
+    },
+    {
+      "TH": {
+        "isoCode": "TH",
+        "iso3Code": "THA",
+        "flag": "🇹🇭",
+        "region": "EU"
+      }
+    },
+    {
+      "TT": {
+        "isoCode": "TT",
+        "iso3Code": "TTO",
+        "flag": "🇹🇹",
+        "region": "EU"
+      }
+    },
+    {
+      "TN": {
+        "isoCode": "TN",
+        "iso3Code": "TUN",
+        "flag": "🇹🇳",
+        "region": "EU"
+      }
+    },
+    {
+      "UY": {
+        "isoCode": "UY",
+        "iso3Code": "URY",
+        "flag": "🇺🇾",
+        "region": "EU"
+      }
+    },
+    {
+      "UZ": {
+        "isoCode": "UZ",
+        "iso3Code": "UZB",
+        "flag": "🇺🇿",
+        "region": "EU"
+      }
+    },
+    {
+      "VE": {
+        "isoCode": "VE",
+        "iso3Code": "VEN",
+        "flag": "🇻🇪",
+        "region": "EU"
+      }
+    },
+    {
+      "VN": {
+        "isoCode": "VN",
+        "iso3Code": "VNM",
+        "flag": "🇻🇳",
+        "region": "EU"
+      }
+    },
+    {
+      "RS": {
+        "isoCode": "RS",
+        "iso3Code": "SRB",
+        "flag": "🇷🇸",
+        "region": "EU"
+      }
+    },
+    {
+      "DZ": {
+        "isoCode": "DZ",
+        "iso3Code": "DZA",
+        "flag": "🇩🇿",
+        "region": "EU"
+      }
+    }
+  ],
+  "GC": [
+    {
+      "region": "US",
+      "Auth0SSOConfiguration": "https://carelink-stage1.minimed.com/configs/v1/guardianzeus_auth0_us_sso_config_v1.json",
+      "Layer7SSOConfiguration": "https://carelink-stage1.minimed.com/configs/v1/oauth20_sso_guardianzeus_us_v6.json",
+      "UseSSOConfiguration": "Auth0SSOConfiguration",
+      "SSOConfiguration": "https://carelink-stage1.minimed.com/configs/v1/oauth20_sso_guardianzeus_us_v6.json",
+      "baseUrlCareLink": "https://carelink-stage1.minimed.com/patient",
+      "baseUrlCumulus": "https://clcloud-stage.minimed.com/connect/gczeus/v1",
+      "baseUrlTeneo": "wss://teneo-cloud-stage.medtronic.com",
+      "baseUrlWhitelist": "https://carelink-stage1.minimed.com",
+      "baseUrlvideo": "https://medtronic-assets.s3-us-west-2.amazonaws.com",
+      "baseUrlGettingStarted": "https://medtronicdiabetes.com",
+      "baseCMSUrl": "https://carelink-content-stage.medtronic.com/guardian-pre-prod/1-6-0",
+      "baseUrlUserGuide": "https://medtronicdiabetes.com"
+    },
+    {
+      "region": "EU",
+      "Auth0SSOConfiguration": "https://carelink-stage1.minimed.eu/configs/v1/guardianzeus_auth0_ous_sso_config_v1.json",
+      "Layer7SSOConfiguration": "https://carelink-stage1.minimed.eu/configs/v1/oauth20_sso_guardianzeus_eu_v6.json",
+      "UseSSOConfiguration": "Auth0SSOConfiguration",
+      "SSOConfiguration": "https://carelink-stage1.minimed.eu/configs/v1/oauth20_sso_guardianzeus_eu_v6.json",
+      "baseUrlCareLink": "https://carelink-stage1.minimed.eu/patient",
+      "baseUrlCumulus": "https://clcloud-stage.minimed.eu/connect/gczeus/v1",
+      "baseUrlTeneo": "wss://teneo-cloud-stage.medtronic.com",
+      "baseUrlWhitelist": "https://carelink-stage1.minimed.eu",
+      "baseUrlvideo": "https://medtronic-assets.s3-us-west-2.amazonaws.com",
+      "baseUrlGettingStarted": "https://medtronicdiabetes.com",
+      "baseCMSUrl": "https://carelink-content-stage.medtronic.com/guardian-pre-prod/1-6-0",
+      "baseUrlUserGuide": "https://medtronicdiabetes.com"
+    }
+  ],
+  "certificates": [
+    {
+      "host": "carelink-stage1.minimed.com",
+      "cert": "MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBHMjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQq2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5WztCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQvIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NGFdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ918rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTepLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTflMrY="
+    },
+    {
+      "host": "carelink-stage1.minimed.eu",
+      "cert": "MIIDrzCCApegAwIBAgIQCDvgVpBCRrGhdWrJWZHHSjANBgkqhkiG9w0BAQUFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBDQTAeFw0wNjExMTAwMDAwMDBaFw0zMTExMTAwMDAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4jvhEXLeqKTTo1eqUKKPC3eQyaKl7hLOllsBCSDMAZOnTjC3U/dDxGkAV53ijSLdhwZAAIEJzs4bg7/fzTtxRuLWZscFs3YnFo97nh6Vfe63SKMI2tavegw5BmV/Sl0fvBf4q77uKNd0f3p4mVmFaG5cIzJLv07A6Fpt43C/dxC//AH2hdmoRBBYMql1GNXRor5H4idq9Joz+EkIYIvUX7Q6hL+hqkpMfT7PT19sdl6gSzeRntwi5m3OFBqOasv+zbMUZBfHWymeMr/y7vrTC0LUq7dBMtoM1O/4gdW7jVg/tRvoSSiicNoxBN33shbyTApOB6jtSj1etX+jkMOvJwIDAQABo2MwYTAOBgNVHQ8BAf8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUA95QNVbRTLtm8KPiGxvDl7I90VUwHwYDVR0jBBgwFoAUA95QNVbRTLtm8KPiGxvDl7I90VUwDQYJKoZIhvcNAQEFBQADggEBAMucN6pIExIK+t1EnE9SsPTfrgT1eXkIoyQY/EsrhMAtudXH/vTBH1jLuG2cenTnmCmrEbXjcKChzUyImZOMkXDiqw8cvpOp/2PV5Adg06O/nVsJ8dWO41P0jmP6P6fbtGbfYmbW0W5BjfIttep3Sp+dWOIrWcBAI+0tKIJFPnlUkiaY4IBIqDfv8NZ5YBberOgOzW6sRBc4L0na4UU+Krk2U886UAb3LujEV0lsYSEY1QSteDwsOoBrp+uvFRTp2InBuThs4pFsiv9kuXclVzDAGySj4dzp30d8tbQkCAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4="
+    },
+    {
+      "host": "clcloud-stage.minimed.com",
+      "cert": "MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBHMjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQq2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5WztCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQvIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NGFdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ918rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTepLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTflMrY="
+    },
+    {
+      "host": "clcloud-stage.minimed.eu",
+      "cert": "MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBHMjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQq2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5WztCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQvIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NGFdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ918rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTepLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTflMrY="
+    },
+    {
+      "host": "teneo-cloud-stage.medtronic.com",
+      "cert": "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"
+    },
+    {
+      "host": "medtronic-assets.s3-us-west-2.amazonaws.com",
+      "cert": "MIIDQTCCAimgAwIBAgITBmyfz5m/jAo54vB4ikPmljZbyjANBgkqhkiG9w0BAQsFADA5MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRkwFwYDVQQDExBBbWF6b24gUm9vdCBDQSAxMB4XDTE1MDUyNjAwMDAwMFoXDTM4MDExNzAwMDAwMFowOTELMAkGA1UEBhMCVVMxDzANBgNVBAoTBkFtYXpvbjEZMBcGA1UEAxMQQW1hem9uIFJvb3QgQ0EgMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALJ4gHHKeNXjca9HgFB0fW7Y14h29Jlo91ghYPl0hAEvrAIthtOgQ3pOsqTQNroBvo3bSMgHFzZM9O6II8c+6zf1tRn4SWiw3te5djgdYZ6k/oI2peVKVuRF4fn9tBb6dNqcmzU5L/qwIFAGbHrQgLKm+a/sRxmPUDgH3KKHOVj4utWp+UhnMJbulHheb4mjUcAwhmahRWa6VOujw5H5SNz/0egwLX0tdHA114gk957EWW67c4cX8jJGKLhD+rcdqsq08p8kDi1L93FcXmn/6pUCyziKrlA4b9v7LWIbxcceVOF34GfID5yHI9Y/QCB/IIDEgEw+OyQmjgSubJrIqg0CAwEAAaNCMEAwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0OBBYEFIQYzIU07LwMlJQuCFmcx7IQTgoIMA0GCSqGSIb3DQEBCwUAA4IBAQCY8jdaQZChGsV2USggNiMOruYou6r4lK5IpDB/G/wkjUu0yKGX9rbxenDIU5PMCCjjmCXPI6T53iHTfIUJrU6adTrCC2qJeHZERxhlbI1Bjjt/msv0tadQ1wUsN+gDS63pYaACbvXy8MWy7Vu33PqUXHeeE6V/Uq2V8viTO96LXFvKWlJbYK8U90vvo/ufQJVtMVT8QtPHRh8jrdkPSHCa2XV4cdFyQzR1bldZwgJcJmApzyMZFo6IQ6XU5MsI+yMRQ+hDKXJioaldXgjUkK642M4UwtBV8ob2xJNDd2ZhwLnoQdeXeGADbkpyrqXRfboQnoZsG4q5WTP468SQvvG5"
+    },
+    {
+      "host": "medtronicdiabetes.com",
+      "cert": "MIICPzCCAcWgAwIBAgIQBVVWvPJepDU1w6QP1atFcjAKBggqhkjOPQQDAzBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBHMzAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEczMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE3afZu4q4C/sLfyHS8L6+c/MzXRq8NOrexpu80JX28MzQC7phW1FGfp4tn+6OYwwX7Adw9c+ELkCDnOg/QW07rdOkFFk2eJ0DQ+4QE2xy3q6Ip6FrtUPOZ9wj/wMco+I+o0IwQDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUs9tIpPmhxdiuNkHMEWNpYim8S8YwCgYIKoZIzj0EAwMDaAAwZQIxAK288mw/EkrRLTnDCgmXc/SINoyIJ7vmiI1Qhadj+Z4y3maTD/HMsQmP3Wyr+mt/oAIwOWZbwmSNuJ5Q3KjVSaLtx9zRSX8XAbjIho9OjIgrqJqpisXRAL34VOKa5Vt8sycX"
+    },
+    {
+      "host": "www.medtronic.com",
+      "cert": "MIIDrzCCApegAwIBAgIQCDvgVpBCRrGhdWrJWZHHSjANBgkqhkiG9w0BAQUFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBDQTAeFw0wNjExMTAwMDAwMDBaFw0zMTExMTAwMDAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4jvhEXLeqKTTo1eqUKKPC3eQyaKl7hLOllsBCSDMAZOnTjC3U/dDxGkAV53ijSLdhwZAAIEJzs4bg7/fzTtxRuLWZscFs3YnFo97nh6Vfe63SKMI2tavegw5BmV/Sl0fvBf4q77uKNd0f3p4mVmFaG5cIzJLv07A6Fpt43C/dxC//AH2hdmoRBBYMql1GNXRor5H4idq9Joz+EkIYIvUX7Q6hL+hqkpMfT7PT19sdl6gSzeRntwi5m3OFBqOasv+zbMUZBfHWymeMr/y7vrTC0LUq7dBMtoM1O/4gdW7jVg/tRvoSSiicNoxBN33shbyTApOB6jtSj1etX+jkMOvJwIDAQABo2MwYTAOBgNVHQ8BAf8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUA95QNVbRTLtm8KPiGxvDl7I90VUwHwYDVR0jBBgwFoAUA95QNVbRTLtm8KPiGxvDl7I90VUwDQYJKoZIhvcNAQEFBQADggEBAMucN6pIExIK+t1EnE9SsPTfrgT1eXkIoyQY/EsrhMAtudXH/vTBH1jLuG2cenTnmCmrEbXjcKChzUyImZOMkXDiqw8cvpOp/2PV5Adg06O/nVsJ8dWO41P0jmP6P6fbtGbfYmbW0W5BjfIttep3Sp+dWOIrWcBAI+0tKIJFPnlUkiaY4IBIqDfv8NZ5YBberOgOzW6sRBc4L0na4UU+Krk2U886UAb3LujEV0lsYSEY1QSteDwsOoBrp+uvFRTp2InBuThs4pFsiv9kuXclVzDAGySj4dzp30d8tbQkCAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4="
+    },
+    {
+      "host": "carelink-content-stage.medtronic.com",
+      "cert": "MIIDjjCCAnagAwIBAgIQAzrx5qcRqaC7KGSxHQn65TANBgkqhkiG9w0BAQsFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBHMjAeFw0xMzA4MDExMjAwMDBaFw0zODAxMTUxMjAwMDBaMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQq2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5WztCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQvIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo0IwQDAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBhjAdBgNVHQ4EFgQUTiJUIBiV5uNu5g/6+rkS7QYXjzkwDQYJKoZIhvcNAQELBQADggEBAGBnKJRvDkhj6zHd6mcY1Yl9PMWLSn/pvtsrF9+wX3N3KjITOYFnQoQj8kVnNeyIv/iPsGEMNKSuIEyExtv4NeF22d+mQrvHRAiGfzZ0JFrabA0UWTW98kndth/Jsw1HKj2ZL7tcu7XUIOGZX1NGFdtom/DzMNU+MeKNhJ7jitralj41E6Vf8PlwUHBHQRFXGU7Aj64GxJUTFy8bJZ918rGOmaFvE7FBcf6IKshPECBV1/MUReXgRPTqh5Uykw7+U0b6LJ3/iyK5S9kJRaTepLiaWN0bfVKfjllDiIGknibVb63dDcY3fe0Dkhvld1927jyNxF1WW6LZZm6zNTflMrY="
+    }
+  ]
+}
